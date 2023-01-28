@@ -1,8 +1,8 @@
 {
-	"folders": [
-		{
-			"path": "."
-		}
-	],
-	"settings": {}
+    "folders": [
+        {
+            "path": "flutter_complete_guide"
+        }
+    ],
+    "settings": {}
 }
